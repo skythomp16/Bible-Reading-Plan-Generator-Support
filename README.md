@@ -17,9 +17,3 @@ This repository serves as an issue tracker for support for the application.  If 
 - OS (including version)
 - App version
 - Steps to reproduce
-
-## Roadmap
-The application is currently on version 1.  A version 2 is planned in the future with the following features (subject to change):
-- Mobile support (Android/iOS)
-- Flatpak support
-- Split by words instead of chapter
